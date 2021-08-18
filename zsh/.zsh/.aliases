@@ -1,0 +1,30 @@
+alias cl=clear
+alias vi=/usr/local/bin/vim
+alias vim=/usr/local/bin/vim
+
+alias kafk="ssh -t ec2-user@52.15.128.12 /bin/bash -ic kafk"
+alias bast="ssh ec2-user@52.15.128.12"
+alias ords="ssh -t ec2-user@52.15.128.12 /bin/bash -ic ords"
+
+alias dev="cd ~/development"
+alias rk="cd ~/development/rivery/rivery_kafka"
+alias rb="cd ~/development/rivery/rivery_back"
+alias rr="cd ~/development/rivery"
+alias ri="cd ~/development/rivery/rivery_infrastructure"
+
+alias goi="go install"
+alias gor="go run ."
+alias code="code-insiders"
+alias ar="arduino-cli"
+
+alias gg="googler $argv"
+alias dot="cd ~/development/dotfiles"
+
+if type nvim > /dev/null 2>&1
+  alias vim='nvim'
+end
+
+alias gst='git status'
+alias gp='git pull'
+alias gpm='git gm'
+alias gl='git ll'

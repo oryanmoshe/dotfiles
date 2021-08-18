@@ -1,3 +1,6 @@
 [submodule "vim"]
 	path = vim
 	url = git@github.com:oryanmoshe/vim.git
+[submodule "zsh/.zsh/pure"]
+	path = zsh/.zsh/pure
+	url = git@github.com:sindresorhus/pure.git

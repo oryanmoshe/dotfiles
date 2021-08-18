@@ -1,0 +1,42 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = Oryan Moshe
+email = oryan@moshe.ai
+signingkey = 3B89F8C3
+
+[alias]
+  aa = add --all
+  cb = checkout -b
+  gm = pull origin/master
+  st = status
+  ci = commit
+  co = checkout
+
+  ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+  ld = log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short --graph
+  ls = log --pretty=format:"%C(green)%h\\ %C(yellow)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  pager = no
+
+[core]
+	autocrlf = false
+	;editor = "nvim -u NORC"
+	editor = "nvim -u ~/.vim/configs/gitcommit.vim"
+  pager = "nvim -R"
+
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[commit]
+	template = /Users/oryan/.gitmessage
+	gpgsign = true
+[gpg]
+	program = gpg
+[init]
+	defaultBranch = master
+[pull]
+	rebase = false
