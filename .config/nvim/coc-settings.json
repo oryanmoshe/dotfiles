@@ -1,0 +1,105 @@
+{
+  "languageserver": {
+    "terraform": {
+      "command": "terraform-lsp",
+      "filetypes": [
+        "terraform"
+      ],
+      "initializationOptions": {}
+    },
+    "kotlin": {
+      "command": "/Users/oryan/development/kotlin-language-server/server/build/install/server/bin/kotlin-language-server",
+      "filetypes": [
+        "kotlin"
+      ],
+      "settings": {
+        "kotlin.compiler.jvm.target": "1.8",
+        "compiler.jvm.target": "1.8"
+      }
+    },
+    "graphql": {
+      "command": "graphql-lsp",
+      "args": [
+        "server",
+        "-m",
+        "stream"
+      ],
+      "filetypes": [
+        "typescript",
+        "typescriptreact",
+        "graphql"
+      ]
+    }
+  },
+  "cSpell.userWords": [
+    "AZBLOB",
+    "Backoff",
+    "CREATEDATE",
+    "Charsets",
+    "DBNAME",
+    "Fargate",
+    "Retriable",
+    "Rivery",
+    "Shortname",
+    "Toolip",
+    "UDFs",
+    "VALS",
+    "asconvert",
+    "convopts",
+    "creds",
+    "curr",
+    "dockerfiles",
+    "envs",
+    "favicon",
+    "itertools",
+    "logicode",
+    "oauthlib",
+    "oryan",
+    "oryanmoshe",
+    "partitioner",
+    "redhat",
+    "retteb",
+    "rivery",
+    "sess",
+    "stylesheets",
+    "tcell",
+    "tview"
+  ],
+  "java.enabled": true,
+  "java.import.maven.enabled": true,
+  "java.import.gradle.enabled": true,
+  "java.format.settings.url": "/Users/oryan/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml",
+  "coc.preferences.messageLevel": "warning",
+  "prettier.disableSuccessMessage": true,
+  "go.goplsOptions": {
+    "analyses": {
+      "nilness": true,
+      "shadow": true,
+      "unusedparams": true,
+      "unusedwrite": true
+    },
+    "gofumpt": true,
+    "usePlaceholders": true
+  },
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "css",
+    "markdown",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "dart",
+    "go",
+    "golang"
+  ],
+  "tsserver.log": "verbose",
+  "prettier.onlyUseLocalVersion": true,
+  "tsserver.formatOnType": true,
+  "coc.preferences.formatOnType": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": true,
+  "coc.source.emoji.filetypes": [
+    "markdown",
+    "gitcommit"
+  ]
+}

@@ -1,0 +1,135 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.007  000.007: --- NVIM STARTING ---
+000.686  000.680: locale set
+001.071  000.384: inits 1
+001.086  000.016: window checked
+001.229  000.142: parsing arguments
+001.452  000.223: expanding arguments
+001.517  000.065: inits 2
+001.941  000.424: init highlight
+002.140  000.199: waiting for UI
+004.105  001.965: done waiting for UI
+004.120  000.015: initialized screen early for UI
+004.757  000.215  000.215: sourcing /Users/oryan/.vim/configs/coc.vim
+004.916  000.064  000.064: sourcing /Users/oryan/.vim/configs/persistant_undo.vim
+005.181  000.017  000.017: sourcing /Users/oryan/.vim/configs/remaps/dvorak.vim
+005.300  000.058  000.058: sourcing /Users/oryan/.vim/configs/remaps/hardmode.vim
+005.374  000.014  000.014: sourcing /Users/oryan/.vim/configs/remaps/hotkeys.vim
+005.499  000.066  000.066: sourcing /Users/oryan/.vim/configs/remaps/incsearch.vim
+005.589  000.023  000.023: sourcing /Users/oryan/.vim/configs/remaps/split.vim
+005.873  000.069  000.069: sourcing /Users/oryan/.vim/configs/remaps/typos.vim
+011.044  004.831  004.831: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/filetype.vim
+011.241  000.037  000.037: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/ftplugin.vim
+012.372  000.338  000.338: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syncolor.vim
+012.516  000.729  000.391: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/synload.vim
+012.540  001.037  000.308: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syntax.vim
+013.101  000.170  000.170: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syncolor.vim
+014.330  000.121  000.121: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syncolor.vim
+015.191  000.134  000.134: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syncolor.vim
+015.840  000.146  000.146: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/syncolor.vim
+017.213  003.422  003.021: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-snazzy/colors/snazzy.vim
+017.481  013.028  003.006: sourcing /Users/oryan/.vimrc
+017.513  013.180  000.152: sourcing /Users/oryan/.config/nvim/init.vim
+017.520  000.220: sourcing vimrc file(s)
+017.828  000.044  000.044: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/indent.vim
+022.926  000.291  000.291: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/gzip.vim
+023.020  000.018  000.018: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/health.vim
+023.173  000.086  000.086: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/man.vim
+026.750  000.346  000.346: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+026.819  003.505  003.159: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/matchit.vim
+027.227  000.290  000.290: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/matchparen.vim
+027.814  000.487  000.487: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/netrwPlugin.vim
+028.119  000.203  000.203: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/rplugin.vim
+028.353  000.105  000.105: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/shada.vim
+028.466  000.028  000.028: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/spellfile.vim
+028.675  000.126  000.126: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/tarPlugin.vim
+028.834  000.077  000.077: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/tohtml.vim
+028.938  000.025  000.025: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/tutor.vim
+029.183  000.165  000.165: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/plugin/zipPlugin.vim
+029.939  000.520  000.520: sourcing /usr/local/opt/fzf/plugin/fzf.vim
+029.946  006.456: loading plugins
+030.978  000.086  000.086: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/ack.vim/plugin/ack.vim
+032.139  000.083  000.083: sourcing /Users/oryan/.vim/pack/packless-plugins/start/ale/autoload/ale/events.vim
+032.350  001.074  000.991: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/ale/plugin/ale.vim
+033.323  000.160  000.160: sourcing /Users/oryan/.vim/pack/packless-plugins/start/coc.nvim-release/autoload/coc/rpc.vim
+034.191  000.541  000.541: sourcing /Users/oryan/.vim/pack/packless-plugins/start/coc.nvim-release/autoload/coc/util.vim
+035.187  000.292  000.292: sourcing /Users/oryan/.vim/pack/packless-plugins/start/coc.nvim-release/autoload/coc/client.vim
+041.128  008.414  007.422: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/coc.nvim-release/plugin/coc.vim
+042.961  001.243  001.243: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/fzf.vim/plugin/fzf.vim
+043.787  000.180  000.180: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/incsearch-easymotion.vim/plugin/incsearch/easymotion.vim
+044.789  000.254  000.254: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/incsearch-fuzzy.vim/plugin/incsearch/fuzzy.vim
+045.707  000.321  000.321: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/incsearch.vim/plugin/incsearch.vim
+046.400  000.259  000.259: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/lightline.vim/plugin/lightline.vim
+047.206  000.327  000.327: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/markdown-preview.nvim/plugin/mkdp.vim
+052.298  004.484  004.484: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/nerdcommenter/plugin/NERD_commenter.vim
+053.927  000.238  000.238: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/autoload/nerdtree.vim
+055.408  000.443  000.443: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/path.vim
+055.789  000.134  000.134: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/menu_controller.vim
+056.159  000.073  000.073: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/menu_item.vim
+056.522  000.094  000.094: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/key_map.vim
+056.942  000.183  000.183: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/bookmark.vim
+057.618  000.266  000.266: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/tree_file_node.vim
+058.628  000.674  000.674: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/tree_dir_node.vim
+059.160  000.178  000.178: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/opener.vim
+059.701  000.221  000.221: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/creator.vim
+060.055  000.074  000.074: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/flag_set.vim
+060.729  000.236  000.236: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/nerdtree.vim
+061.551  000.437  000.437: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/ui.vim
+062.068  000.058  000.058: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/event.vim
+062.720  000.098  000.098: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/lib/nerdtree/notifier.vim
+063.965  000.674  000.674: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/autoload/nerdtree/ui_glue.vim
+069.237  000.621  000.621: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-devicons/nerdtree_plugin/webdevicons.vim
+070.795  000.970  000.970: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree-git-plugin/nerdtree_plugin/git_status.vim
+071.411  000.122  000.122: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/nerdtree_plugin/exec_menuitem.vim
+072.598  000.263  000.263: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/autoload/provider/clipboard.vim
+073.116  001.607  001.345: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/nerdtree_plugin/fs_menu.vim
+073.328  000.084  000.084: sourcing /Users/oryan/.vim/pack/packless-plugins/start/nerdtree/nerdtree_plugin/vcs.vim
+074.330  021.526  014.038: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/nerdtree/plugin/NERD_tree.vim
+074.978  000.097  000.097: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/rainbow/plugin/rainbow_main.vim
+075.686  000.158  000.158: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/undotree/plugin/undotree.vim
+078.636  002.573  002.573: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-devicons/plugin/webdevicons.vim
+084.576  005.560  005.560: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-easymotion/plugin/EasyMotion.vim
+085.816  000.763  000.763: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-eunuch/plugin/eunuch.vim
+086.278  000.086  000.086: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-fish/ftdetect/fish.vim
+088.243  001.662  001.662: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-fugitive/plugin/fugitive.vim
+088.471  000.028  000.028: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-fugitive/ftdetect/fugitive.vim
+090.051  000.472  000.472: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter/utility.vim
+090.832  000.158  000.158: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter/highlight.vim
+092.060  003.089  002.459: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-gitgutter/plugin/gitgutter.vim
+092.575  000.035  000.035: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-javascript/ftdetect/flow.vim
+092.764  000.072  000.072: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-javascript/ftdetect/javascript.vim
+094.201  000.559  000.559: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-surround/plugin/surround.vim
+094.847  000.274  000.274: sourcing /Users/oryan/development/dotfiles/vim/.vim/pack/packless-plugins/start/vim-terraform/ftdetect/terraform.vim
+095.142  012.074: loading packages
+095.384  000.242: loading after plugins
+095.400  000.016: inits 3
+097.230  001.830: reading ShaDa
+102.159  000.536  000.536: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/scripts.vim
+103.620  000.057  000.057: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/ftplugin/conf.vim
+105.056  000.080  000.080: sourcing /usr/local/Cellar/neovim/0.4.3/share/nvim/runtime/syntax/conf.vim
+1138.038  1031.760  1031.760: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-fish/ftplugin/fish.vim
+1139.729  000.170  000.170: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-fish/syntax/fish.vim
+1140.413  000.023  000.023: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-fish/indent/fish.vim
+1141.164  000.244  000.244: sourcing /Users/oryan/.vim/pack/packless-plugins/start/ale/autoload/ale.vim
+1141.746  000.255  000.255: sourcing /Users/oryan/.vim/pack/packless-plugins/start/ale/autoload/ale/util.vim
+1142.368  012.014: opening buffers
+1142.999  000.336  000.336: sourcing /Users/oryan/.vim/pack/packless-plugins/start/lightline.vim/autoload/lightline.vim
+1143.624  000.043  000.043: sourcing /Users/oryan/.vim/pack/packless-plugins/start/lightline.vim/autoload/lightline/tab.vim
+1144.274  000.158  000.158: sourcing /Users/oryan/.vim/pack/packless-plugins/start/lightline.vim/autoload/lightline/colorscheme.vim
+1144.723  000.912  000.753: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-snazzy/autoload/lightline/colorscheme/snazzy.vim
+1147.647  000.109  000.109: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter.vim
+1148.792  000.070  000.070: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter/async.vim
+1149.040  000.081  000.081: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter/debug.vim
+1169.318  009.398  009.398: sourcing /Users/oryan/.vim/pack/packless-plugins/start/vim-gitgutter/autoload/gitgutter/diff.vim
+1169.577  016.261: BufEnter autocommands
+1169.582  000.005: editing files in windows
+1170.144  000.562: VimEnter autocommands
+1170.148  000.004: UIEnter autocommands
+1170.149  000.001: before starting main loop
+1171.590  001.440: first screen update
+1171.592  000.002: --- NVIM STARTED ---
