@@ -28,3 +28,5 @@ alias gst='git status'
 alias gp='git pull'
 alias gpm='git gm'
 alias gl='git ll'
+
+alias t='tig'
