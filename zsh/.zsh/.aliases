@@ -30,3 +30,5 @@ alias gpm='git gm'
 alias gl='git ll'
 
 alias t='tig'
+
+alias vims='vim -S $HOME/.vim/sessions$PWD/session.vim'
